@@ -57,7 +57,7 @@ spec:
         - --random-error=false
         env:
         - name: PODINFO_UI_MESSAGE
-          value: "Welcome to wooj's Flux"
+          value: "Welcome to wooj's Flux, again"
         - name: PODINFO_UI_COLOR
           value: "#FFFFFF"
         livenessProbe:
